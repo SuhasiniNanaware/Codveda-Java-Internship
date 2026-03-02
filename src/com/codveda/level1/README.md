@@ -23,4 +23,5 @@ It is a console-based number guessing game built using Object-Oriented Programmi
 
 Below is a sample run of the program:
 
-![Game Output](NumberGuessingGame_Output.png)
+![Game Output](C:\Users\Admin\OneDrive\Desktop\Codveda-Java-Internship\Level1_NumberGuessingGame\src\com\codveda\level1\NumberGuessingGame_Output.png.png)
+![Game Output](C:\Users\Admin\OneDrive\Desktop\Codveda-Java-Internship\Level1_NumberGuessingGame\src\com\codveda\level1\NumberGuessingGame_Output.png2.png)
