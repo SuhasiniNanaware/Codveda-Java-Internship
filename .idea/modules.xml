@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Level1_NumberGuessingGame.iml" filepath="$PROJECT_DIR$/Level1_NumberGuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/com/codveda/level1/Level1_NumberGuessingGame.iml" filepath="$PROJECT_DIR$/src/com/codveda/level1/Level1_NumberGuessingGame.iml" />
     </modules>
   </component>
 </project>
