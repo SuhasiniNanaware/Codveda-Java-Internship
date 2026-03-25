@@ -19,3 +19,7 @@ This project is part of my Java Development Internship at Codveda Technologies.
 ## How to Run
 1. Compile: javac Main.java
 2. Run: java Main
+
+## Demo Video
+Watch the working demo on LinkedIn:
+(https://www.linkedin.com/posts/suhasini-nanaware-72116b330_codveda-codvedatech-codvedainternship-activity-7442255874359783425-3x7f?utm_source=share&utm_medium=member_android&rcm=ACoAAFNRQEkBFEEkImjwLycSWdrTs8Zyk6uQIvM)
